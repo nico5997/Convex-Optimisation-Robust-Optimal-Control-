@@ -24,6 +24,7 @@ end
 % (1) obtention of the differents indexes i of beta by taking a 
 % random normally distributed term with relative standard deviation
 % (2) transormation of the matrix B -> Gamma to discretise the system
+
 for i = 1:L
      for j = 1:n
         for p = 1:m
